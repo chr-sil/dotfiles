@@ -1,7 +1,10 @@
 [user]
-	name = Chris Siller
-	email = christopher.siller@alexanderthamm.com
+    name = Chris Siller
+    email = chsiller91@gmail.com
+
 [safe]
     directory = /workspace
+
 [init]
-	defaultBranch = main
+    defaultBranch = main
+
