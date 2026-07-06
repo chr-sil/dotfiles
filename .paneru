@@ -1,0 +1,15 @@
+[options]
+focus_follows_mouse = true
+
+[bindings]
+window_focus_west = "cmd - h"
+window_focus_east = "cmd - l"
+window_swap_west = "alt - h"
+window_swap_east = "alt - l"
+window_center = "alt - c"
+window_resize = "alt - r"
+quit = "ctrl + alt - q"
+window_stack = "alt - s"
+window_unstack = "alt - u"
+window_equalize = "alt - e"
+window_manage = ctrl + alt - t

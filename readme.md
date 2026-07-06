@@ -4,7 +4,8 @@
 - [ ] **Migrate from manual symlinks to GNU Stow**
     - Currently: Manual `ln -s` links from `~/dotfiles` to `~`.
     - Goal: Use `stow` for automated, folder-based symlinking.
-
+- [ ] Set up Git, p10k, in dotfile (currently normal)
+- [ ] revisit zshrc, not sure where it is. 
 ### Quick Setup Guide
 1. **Structure the Repo**: Move configs into folders named after the tool.
    ```bash
